@@ -1,0 +1,15 @@
+C:\Users\marco\Desktop\resposta\bin\Debug\net7.0\resposta.exe
+C:\Users\marco\Desktop\resposta\bin\Debug\net7.0\resposta.deps.json
+C:\Users\marco\Desktop\resposta\bin\Debug\net7.0\resposta.runtimeconfig.json
+C:\Users\marco\Desktop\resposta\bin\Debug\net7.0\resposta.dll
+C:\Users\marco\Desktop\resposta\bin\Debug\net7.0\resposta.pdb
+C:\Users\marco\Desktop\resposta\obj\Debug\net7.0\resposta.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\resposta\obj\Debug\net7.0\resposta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\resposta\obj\Debug\net7.0\resposta.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\resposta\obj\Debug\net7.0\resposta.AssemblyInfo.cs
+C:\Users\marco\Desktop\resposta\obj\Debug\net7.0\resposta.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\resposta\obj\Debug\net7.0\resposta.dll
+C:\Users\marco\Desktop\resposta\obj\Debug\net7.0\refint\resposta.dll
+C:\Users\marco\Desktop\resposta\obj\Debug\net7.0\resposta.pdb
+C:\Users\marco\Desktop\resposta\obj\Debug\net7.0\resposta.genruntimeconfig.cache
+C:\Users\marco\Desktop\resposta\obj\Debug\net7.0\ref\resposta.dll
